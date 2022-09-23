@@ -2,4 +2,4 @@
 ----
 
 In questo semplice tutorial vedremo come installare EDICO.
-Blablabla
+Si ricorda che Edico non può funzionare sul Commodore64, grazie.
