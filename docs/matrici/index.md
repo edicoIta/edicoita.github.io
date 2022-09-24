@@ -81,7 +81,7 @@ La sintesi vocale leggerà l'intera riga della tabella scandendola lettera per l
 
 Questo tipo di Editor è molto comodo per chi lavora in braille se si desidera avere a disposizione sul display l'intera riga della tabella.
 
-Quando abbiamo concluso premiamo ESC per chiudere l'editor bidimensionale e tornare nel documento.
+Quando abbiamo concluso premiamo ESC per chiudere l'editor bidimensionale senza salvare le modifiche e tornare nel documento.
 
 L'editor bidimensionale in celle è simile all'editor bidimensionale. A differenza di quest'ultimo però, mostrerà sul display braille e leggerà in sintesi vocale una singola cella della tabella alla volta.
 Manteniamo posizionato il cursore all'interno della nostra tabella e premiamo Shift+F11.
@@ -92,8 +92,15 @@ Come si può notare, in questo caso la sintesi vocale leggerà solo la cella del
 Sul display braille, prima del contenuto, possiamo leggere le coordinate. Così, ad esempio, leggeremo:
 
 c1 1    profitto
+
+premiamo TAB e troviamo
+
 c1 2    nord 
+
+premiamo TAB e troviamo
+
 c1 3    centro
+
 eccetera
 
 
