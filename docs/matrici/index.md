@@ -166,7 +166,7 @@ A partire dall'editor bidimensionale è anche possibile spostarsi rapidamente al
 
 ![Vai a pagina precedente](https://user-images.githubusercontent.com/16359799/192101307-7c3d8caf-9a66-40bf-bfa8-01de359a721c.png)
 
-Si può naturalmente effettuare l'operazione inversa premendo Pagina Giù o selezionando la relativa voce dal menu Vai A.
+Si può naturalmente effettuare l'operazione inversa premendo Pagina Giù o selezionando la relativa voce dal menu "Vai a".
 
 ## Le matrici
 
