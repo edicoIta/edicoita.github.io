@@ -216,4 +216,7 @@ Procedo quindi nello scrivere le due matrici A e B.
 Ecco mentre sto scrivendo $A$:
 ![scrivo la matrice A](https://user-images.githubusercontent.com/16359799/192102838-34a30ca5-dcc3-46df-9adf-65e413fb3610.png)
 
+Copiamo anche $B$ e dovremmo ora avere un qualcosa di simile a ciò che appare in figura:
+![esempio](https://user-images.githubusercontent.com/16359799/192102998-3f58dfb6-ca6a-4d87-9a3c-bd6d75f63a41.png)
+Per l'esempio già scritto fare riferimento all'Esempio 4 del file allegato.
 
