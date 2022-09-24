@@ -34,6 +34,18 @@ Nell'esempio vediamo un caso in cui impostiamo una tabella con 3 righe e 4 colon
 
 Il cursore verrà riportato nell'editor lineare.
 
+Rileggendo o consultando una tabella potrebbe essere difficile comprenderne al volo le dimensioni. EDICO ci riporterà il numero di righe e colonne contenute in una tabella richiamando la funzione "Mostra dimensioni".
+Per attivarla procediamo come segue:
+
+1. Posizionamo il cursore sulla tabella
+2. Premiamo Alt+F11
+
+![Tabella 3 per 4](https://user-images.githubusercontent.com/16359799/192101447-48aaf079-55d9-45b2-aae9-e2b46c1f583f.png)
+
+Edico ci riporterà che la tabella è una 3 per 4.
+
+In alternativa è anche possibile richiamare la funzione "Mostra dimensioni" dal menu Azioni.
+
 Prendiamoci il tempo di esplorare ciò che abbiamo creato. Sul nostro display braille o Scorrendo con le freccette troviamo una serie di marcatori come:
 * inizio tabella  
 * Nuova colonna  
