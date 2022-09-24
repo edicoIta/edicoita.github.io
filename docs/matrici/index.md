@@ -217,7 +217,7 @@ Per l'esempio già scritto fare riferimento all'Esempio 4 del file allegato.
 
 A questo punto, applicando le regole delle matrici, possiamo calcolare la matrice:
 
-$$C = A - B$$
+$$C = B - A$$
 
 ## Operazioni con le matrici
 Per effettuare la sottrazione fra le due matrici possiamo usare l'editor bidimensionale e scriverci a mano tutte le operazioni. 
