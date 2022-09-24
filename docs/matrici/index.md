@@ -225,15 +225,34 @@ A questo punto, applicando le regole delle matrici, possiamo calcolare la matric
 $$C = A - B$$
 
 ## Operazioni con le matrici
-Per effettuare la sottrazione fra le due matrici possiamo usare l'editor bidimensionale. 
+Per effettuare la sottrazione fra le due matrici possiamo usare l'editor bidimensionale e scriverci a mano tutte le operazioni. 
+Ci troveremmo però a dover gestire 3 matrici contemporaneamente $A$, $B$ e $C$.
 
-In questo caso andiamo a definire una nuova matrice $C$ sempre di dimensioni 2 per 3.
-![esempio](https://user-images.githubusercontent.com/16359799/192103181-452f9082-971c-495c-be95-134ee09aa033.png)
-Ci portiamo quindi all'interno della matrice e apriamo l'editor bidimensionale con F11:
+Questo, se all'inizio può aiutarci a capire come impostare correttamente il calcolo, a tendere rischia di portarci a effettuare errori di copiatura.
 
-Aiutandoci con le funzioni Pagina su e Pagina giù andiamo a copiare i vari elementi per impostare la sottrazione termine a termine.
-![scrivendo la matrice C](https://user-images.githubusercontent.com/16359799/192103695-1a3e7e62-8903-4d2e-a3a0-ab655eb29bf8.png)
-Chiudiamo l'editor bidimensionale confermando con Invio.
+EDICO in questo caso offre uno strumento in più che può essere richiamato dal menu Strumenti che va a impostare automaticamente i calcoli (senza risolverli).
+
+Per utilizzarlo dobbiamo per prima cosa scrivere l'operazione che vogliamo svolgere e quindi copiamo la matrice A, aggiungiamo un meno, quindi copiamo la matrice B:
+
+
+$$
+\left(\begin{array}{ccc}
+10000 & 9000 & 8500 \\
+3400 & 2300 & 4000
+\end{array}\right)
+-\\
+\left(\begin{array}{ccc}
+9800 & 9300 & 8100 \\
+3400 & 2400 & 4400
+\end{array}\right)
+$$
+
+Scegliamo quindi il menu Strumenti, quindi Calcolo Matriciale, quindi Operazioni con sviluppo
+![Scelta opzione da menu](https://user-images.githubusercontent.com/16359799/192105817-e5b81049-309c-49b4-bbe0-bc3d21a637e8.png)
+
+Il programma ci scriverà in automatico la matrice su cui dovremo andare a effettuare i calcoli.
+Notare che la matrice creata dal programma viene messa in una nuova riga senza assegnarvi un nome o un'uguaglianza. Sarà quindi necessario poi procedere con gli opportuni adeguamenti.
+![risultato](https://user-images.githubusercontent.com/16359799/192106024-8c707c6e-0d6a-43f4-9b3b-101105b8b30e.png)
 
 Per andare alla matrice C già scritta fare riferimento all'esempio 5 del file allegato.
 
@@ -259,29 +278,15 @@ $$
 
 Per andare allo svolgimento del calcolo fare riferimento all'esempio 6 del file allegato.
 
-Questo tipo di calcoli possono risultare molto complessi, soprattutto in fase di copiatura. E' importante sapere che EDICO offre strumenti che permettono anche la risoluzione automatica delle operazioni su matrici.
-Ad esempio, il calcolo precedente può essere effettuato in modo automatico impostando l'operazione:
-
-
-$$
-\left(\begin{array}{ccc}
-10000 & 9000 & 8500 \\
-3400 & 2300 & 4000
-\end{array}\right)
--\\
-\left(\begin{array}{ccc}
-9800 & 9300 & 8100 \\
-3400 & 2400 & 4400
-\end{array}\right)
-$$
-
-Per trovarla già scritta si può fare riferimento all'Esempio 7 del file allegato.
-
-A questo punto, per ottenere la matrice $C$ risultato si può scegliere dal menu Strumenti, Calcolo matriciale la funzione Operazioni con matrici.
+Un ulteriore aiuto in EDICO è relativo al calcolo automatico delle operazioni fra matrici.
+Per ottenere la matrice $C$ risultato già calcolata si può scegliere dal menu Strumenti, Calcolo matriciale la funzione Operazioni con matrici.
 ![risultato](https://user-images.githubusercontent.com/16359799/192104882-d45953da-a90d-40f1-b555-26be59126259.png)
 
 Notare che la matrice risultato viene concatenata all'operazione. Sarà quindi necessario poi procedere con gli opportuni adeguamenti.
 ![risultato](https://user-images.githubusercontent.com/16359799/192104919-836d5c3e-46d7-4a27-bf05-75e201c1fa94.png)
+
+Per un esempio sulla risoluzione automatica fare riferimento all'Esempio 8 del file allegato.
+
 
 
 
