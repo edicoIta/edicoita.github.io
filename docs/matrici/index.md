@@ -177,15 +177,43 @@ Impostiamo quindi due matrici A e B, di cui la prima conterrà i dati di febbrai
 Avremo quindi che
 
 $$
-A=\left[\begin{array}{ccc}
+A=\left(\begin{array}{ccc}
 10000 & 9000 & 8500 \\
-3400 & 2300 & 4400
-\end{array}\right]
+3400 & 2300 & 4000
+\end{array}\right)
 $$
 
 $$
-B=\left[\begin{array}{ccc}
+B=\left(\begin{array}{ccc}
 9800 & 9300 & 8100 \\
 3400 & 2400 & 4400
-\end{array}\right]
+\end{array}\right)
 $$
+
+Vogliamo quindi scrivere le matrici A e B in EDICO.
+
+E' possibile inserire una matrice in tre modi distinti
+* Premendo CTRL+ALT+M ;
+* Dal menu Inserisci, scegliendo Matrice;
+* Premendo F5 e scegliendo matrice
+
+Scegliamo il modo a noi più congeniale.
+Creiamo quindi una semplice matrice 2 per 3 in modo del tutto simile a come abbiamo fatto in precedenza per le tabelle:
+![creazione matrice](https://user-images.githubusercontent.com/16359799/192102547-6e7fe497-a262-4800-95ba-d2ffe40ce660.png)
+
+In modo del tutto simile alle tabelle ci troveremo di fronte ad una serie di marcatori:
+* matrice
+* Nuova colonna
+* Nuova colonna
+* Nuova riga
+* Nuova colonna
+* Nuova colonna
+* fine matrice 
+
+Proprio come nel caso delle tabelle è possibile utilizzare l'editor bidimensionale e l'editor bidimensionale in celle per gestire la matrice.
+Procedo quindi nello scrivere le due matrici A e B.
+
+Ecco mentre sto scrivendo $A$:
+![scrivo la matrice A](https://user-images.githubusercontent.com/16359799/192102838-34a30ca5-dcc3-46df-9adf-65e413fb3610.png)
+
+
