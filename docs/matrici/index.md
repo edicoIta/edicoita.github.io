@@ -243,12 +243,11 @@ $$
 $$
 
 Scegliamo quindi il menu Strumenti, quindi Calcolo Matriciale, quindi Operazioni con sviluppo
-![Scelta opzione da menu](https://user-images.githubusercontent.com/16359799/192105817-e5b81049-309c-49b4-bbe0-bc3d21a637e8.png)
+![selezione da menu](https://user-images.githubusercontent.com/16359799/192113702-c5f3e7e5-bb0b-4d01-8a72-f160bbe2394d.png)
 
 Il programma ci scriverà in automatico la matrice su cui dovremo andare a effettuare i calcoli.
 Notare che la matrice creata dal programma viene messa in una nuova riga senza assegnarvi un nome o un'uguaglianza. Sarà quindi necessario poi procedere con gli opportuni adeguamenti.
-![esempio con matrice e sottrazioni da svolgere](https://user-images.githubusercontent.com/16359799/192108045-9ff7f30d-0220-4331-8707-eae9a6b7e1ec.png)
-
+![esempio con matrice e sottrazioni da svolgere](https://user-images.githubusercontent.com/16359799/192113729-4d97309c-7573-4eb9-93a5-9d7544dfa521.png)
 
 Per andare alla matrice $C$ già scritta fare riferimento all'esempio 5 del file allegato.
 
