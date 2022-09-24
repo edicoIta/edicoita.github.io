@@ -52,7 +52,7 @@ Prendiamoci il tempo di esplorare ciò che abbiamo creato. Sul nostro display br
 Fra questi marcatori possiamo andare a inserire manualmente il contenuto della nostra tabella. Ad esempio se vogliamo riempire la prima riga con:
 
 | Profitto | Nord | Centro | Sud |
-|---|---|---|---|---|
+
 
 lo possiamo fare andando a scrivere "Profitto" fra il marcatore di inizio tabella e il primo marcatore di nuova colonna, e a seguire centro e sud.
 Per vedere l'esempio svolto fare riferimento all'Esempio 1 del file allegato.
@@ -63,6 +63,8 @@ Se questa modalità è comoda quando abbiamo a che fare con tabelle piccole, che
 Se già cominciassimo a riempire le altre righe della tabella in questo modo, sarebbe molto facile perdere l'orientamento.
 
 Per questo motivo EDICO mette a disposizione l'editor bidimensionale.
+
+## Editor Bidimensionale
 
 Come nel caso delle strutture didattiche delle operazioni questo è disponibile in due modi: Editor Bidimensionale e Editor Bidimensionale in celle.
 
@@ -80,6 +82,13 @@ Riga1 edt Profitto. Nord. Centro. Sud.
 La sintesi vocale leggerà l'intera riga della tabella scandendola lettera per lettera.
 
 Questo tipo di Editor è molto comodo per chi lavora in braille se si desidera avere a disposizione sul display l'intera riga della tabella.
+
+L'editor bidimensionale appare in una finestra di dialogo che contiene:
+* Una barra dei menu
+* Tanti campi di testo uno per ogni riga della tabella (nel nostro caso 3 campi di testo)
+* Un pulsante Aggiorna attivabile anche premendo semplicmenente INVIO.
+
+Ci si può spostare fra i vari controlli premendo TAB. Ci si può spostare fra le varie righe anche usando le frecce su e giù.
 
 Quando abbiamo concluso premiamo ESC per chiudere l'editor bidimensionale senza salvare le modifiche e tornare nel documento.
 
@@ -103,8 +112,11 @@ c1 3    centro
 
 eccetera
 
+La finestra di dialogo è del tutto simile a quella dell'editor bidimensionale in righe. La barra dei menu in entrambi i casi consente di inserire simboli grazie al menu Inserisci.
+E' poi possibile aggiungere e rimuovere righe e colonne dal menu Modifica, Selezionare delle porzioni della tabella dal menu Seleziona e richiamare la calcolatrice dal menu Strumenti.
 
+Una funzione interessante viene messa a disposizione dal menu Azioni che permette di passare al volo fra l'editor bidimensionale e l'editor bidimensionale in celle.
 
-
+Prendetevi del tempo per esplorare le varie opzioni presenti. Al termine potete completare l'esercizio aggiungendo due righe alla tabella copiando quella qui sotto:
 
 
