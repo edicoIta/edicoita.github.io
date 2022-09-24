@@ -117,10 +117,30 @@ E' poi possibile aggiungere e rimuovere righe e colonne dal menu Modifica, Selez
 
 Una funzione interessante viene messa a disposizione dal menu Azioni che permette di passare al volo fra l'editor bidimensionale e l'editor bidimensionale in celle.
 
-Prendetevi del tempo per esplorare le varie opzioni presenti. Al termine potete completare l'esercizio aggiungendo due righe alla tabella copiando quella qui sotto:
+Prendetevi del tempo per esplorare le varie opzioni presenti. 
+Al termine potete completare l'esercizio aggiungendo due righe alla tabella copiando quella qui sotto:
 
 | Profitto | Nord | Centro | Sud |
 | --- | --- | --- | --- |
 | TV | 10000€ | 9000€ | 8500€ |
-| Radio | 3400€ | 2300€ | 4000 |
+| Radio | 3400€ | 2300€ | 4000€ |
+
+![Esempio](https://user-images.githubusercontent.com/16359799/192100537-bb2e3ec9-0c29-4f28-aa8e-33ee07aa09c7.png)
+
+La tabella in questo caso rappresenta una informazione. In questo caso i profitti di un negozio di elettronica nel mese di Febbraio. Possiamo completare l'esercizio aggiungendo un testo che descrive la tabella. Ad esempio: 
+
+Profitto febbraio (euro) 
+
+![Esempio](https://user-images.githubusercontent.com/16359799/192100666-40addced-357d-4031-985b-9530be29b42b.png)
+
+Per vedere l'esempio svolto fare riferimento all'Esempio 2 del file allegato.
+
+Proviamo ora ad aggiungere una ulteriore tabella, ad esempio con i profitti del mese di marzo. Copiare questa tabella preceduta dal testo 
+
+Profitto marzo (euro)
+
+| Profitto | Nord | Centro | Sud |
+| --- | --- | --- | --- |
+| TV | 9800€ | 9300€ | 8100€ |
+| Radio | 3400€ | 2400€ | 4400€ |
 
