@@ -235,9 +235,28 @@ Aiutandoci con le funzioni Pagina su e Pagina giù andiamo a copiare i vari elem
 ![scrivendo la matrice C](https://user-images.githubusercontent.com/16359799/192103695-1a3e7e62-8903-4d2e-a3a0-ab655eb29bf8.png)
 Chiudiamo l'editor bidimensionale confermando con Invio.
 
-Per andare alla matrice C già scritta fare riferimento all'esempio 5.
+Per andare alla matrice C già scritta fare riferimento all'esempio 5 del file allegato.
 
 Ora possiamo duplicare la riga con Control+d che, in questo caso duplicherà la riga dell'editor lineare e quindi l'intera matrice.
+
+![le due righe duplicate](https://user-images.githubusercontent.com/16359799/192103895-f700b55f-cc73-490b-9822-295a1a3163d9.png)
+
+Quindi possiamo entrare nuovamente nell'editor bidimensionale con F11 e svolgere le sottrazioni aiutandoci con la calcolatrice.
+
+* Possiamo selezionare i singoli elementi della matrice (le singole sottrazioni) con F12
+* Possiamo calcolarne il risultato e salvarlo negli appunti con Shift+F9
+* Infine possiamo incollarlo con Control+V
+![image](https://user-images.githubusercontent.com/16359799/192103932-3a95dfd1-21c4-478a-969b-e59f279de856.png)
+
+Otteniamo quindi la matrice calcolata 
+$$$$
+C=\left(\begin{array}{ccc}
+-200 & 300 & -400 \\
+0 & 100 & 400
+\end{array}\right)
+$$
+
+Per andare allo svolgimento del calcolo fare riferimento all'esempio 6 del file allegato.
 
 
 
