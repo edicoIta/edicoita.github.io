@@ -249,6 +249,7 @@ Quindi possiamo entrare nuovamente nell'editor bidimensionale con F11 e svolgere
 ![image](https://user-images.githubusercontent.com/16359799/192103932-3a95dfd1-21c4-478a-969b-e59f279de856.png)
 
 Otteniamo quindi la matrice calcolata 
+
 $$
 C=\left(\begin{array}{ccc}
 -200 & 300 & -400 \\
