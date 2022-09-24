@@ -220,3 +220,25 @@ Copiamo anche $B$ e dovremmo ora avere un qualcosa di simile a ciò che appare i
 ![esempio](https://user-images.githubusercontent.com/16359799/192102998-3f58dfb6-ca6a-4d87-9a3c-bd6d75f63a41.png)
 Per l'esempio già scritto fare riferimento all'Esempio 4 del file allegato.
 
+A questo punto, applicando le regole delle matrici, possiamo calcolare la matrice:
+
+$$C = A - B$$
+
+## Operazioni con le matrici
+Per effettuare la sottrazione fra le due matrici possiamo usare l'editor bidimensionale. 
+
+In questo caso andiamo a definire una nuova matrice $C$ sempre di dimensioni 2 per 3.
+![esempio](https://user-images.githubusercontent.com/16359799/192103181-452f9082-971c-495c-be95-134ee09aa033.png)
+Ci portiamo quindi all'interno della matrice e apriamo l'editor bidimensionale con F11:
+
+Aiutandoci con le funzioni Pagina su e Pagina giù andiamo a copiare i vari elementi per impostare la sottrazione termine a termine.
+![scrivendo la matrice C](https://user-images.githubusercontent.com/16359799/192103695-1a3e7e62-8903-4d2e-a3a0-ab655eb29bf8.png)
+Chiudiamo l'editor bidimensionale confermando con Invio.
+
+Per andare alla matrice C già scritta fare riferimento all'esempio 5.
+
+Ora possiamo duplicare la riga con Control+d che, in questo caso duplicherà la riga dell'editor lineare e quindi l'intera matrice.
+
+
+
+
