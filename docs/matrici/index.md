@@ -227,18 +227,18 @@ Questo, se all'inizio può aiutarci a capire come impostare correttamente il cal
 
 EDICO in questo caso offre una funzione in più che può essere richiamata dal menu Strumenti e che va a impostare automaticamente i calcoli (senza risolverli).
 
-Per utilizzarla dobbiamo per prima cosa scrivere l'operazione che vogliamo svolgere e quindi copiamo la matrice A, aggiungiamo un meno, quindi copiamo la matrice B:
+Per utilizzarla dobbiamo per prima cosa scrivere l'operazione che vogliamo svolgere e quindi copiamo la matrice B, aggiungiamo un meno, quindi copiamo la matrice A:
 
 
 $$
 \left(\begin{array}{ccc}
-10000 & 9000 & 8500 \\
-3400 & 2300 & 4000
+9800 & 9300 & 8100 \\
+3400 & 2400 & 4400
 \end{array}\right)
 -\\
 \left(\begin{array}{ccc}
-9800 & 9300 & 8100 \\
-3400 & 2400 & 4400
+10000 & 9000 & 8500 \\
+3400 & 2300 & 4000
 \end{array}\right)
 $$
 
