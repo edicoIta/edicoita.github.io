@@ -119,4 +119,8 @@ Una funzione interessante viene messa a disposizione dal menu Azioni che permett
 
 Prendetevi del tempo per esplorare le varie opzioni presenti. Al termine potete completare l'esercizio aggiungendo due righe alla tabella copiando quella qui sotto:
 
+| Profitto | Nord | Centro | Sud |
+| --- | --- | --- | --- |
+| TV | 10000€ | 9000€ | 8500€ |
+| Radio | 3400€ | 2300€ | 4000 |
 
