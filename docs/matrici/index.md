@@ -170,4 +170,17 @@ Si può naturalmente effettuare l'operazione inversa premendo Pagina Giù o sele
 
 ## Le matrici
 
+Proprio come le tabelle, EDICO ci permette di gestire in modo del tutto analogo le matrici. Richiamando l'esempio precedente, supponiamo voler calcolare, per ciascun periodo, la differenza fra i due profitti.
+
+Impostiamo quindi due matrici A e B, di cui la prima conterrà i dati di febbraio mentre la seconda conterrà i dati di marzo.
+
+Avremo quindi che
+
+$$
+A=\left[\begin{array}{ccc}
+9800 & 9300 & 8100 \\
+3400 & 2400 & 4400
+\end{array}\right]
+$$
+
 
