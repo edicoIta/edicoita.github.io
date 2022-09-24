@@ -285,7 +285,46 @@ Per ottenere la matrice $C$ risultato già calcolata si può scegliere dal menu 
 Notare che la matrice risultato viene concatenata all'operazione. Sarà quindi necessario poi procedere con gli opportuni adeguamenti.
 ![risultato](https://user-images.githubusercontent.com/16359799/192104919-836d5c3e-46d7-4a27-bf05-75e201c1fa94.png)
 
-Per un esempio sulla risoluzione automatica fare riferimento all'Esempio 8 del file allegato.
+Per vedere un esempio di risoluzione automatica dei calcoli riferimento all'Esempio 7 del file allegato.
+
+Questi strumenti possono essere impiegati anche per effettuare operazioni più complicate come le operazioni di moltiplicazione (riga per colonna) fra matrici, vettori e scalari.
+Ad esempio se volessimo calcolare Qual è il profitto di febbraio suddiviso per area dovremmo effettuare l'operazione:
+
+$$
+\left[\begin{array}{ll}
+1 & 1
+\end{array}\right] \cdot A:
+$$
+
+Andiamo quindi a creare una matrice con 1 riga e 2 colonne che riempiamo con 1. Moltiplichiamo quindi questa matrice per $A$.
+![risultato](https://user-images.githubusercontent.com/16359799/192106752-11736975-9d3b-432f-a63f-e974b42516c6.png)
+
+E q auesto punto possiamo vedere qual è il profitto complessivo di febbraio moltiplicando per il vettore unitario verticale.
+Andiamo a creare quindi una matrice 3 per 1 e riempiamola con "1" e la moltiplichiamo per il vettore risultante dalla precedente operazione. Attiviamo quindi la funzione "Operazioni con matrici" dal menu Strumenti, Calcolo matriciale.
+![risultato](https://user-images.githubusercontent.com/16359799/192106845-b8e94e4b-c129-4a20-8833-950d4085e2d4.png)
+
+Per i dettagli si può fare riferimento all'Esempio 8 del file allegato.
+
+Un'ultima facile operazione che è possibile svolgere in automatico è il calcolo della trasposta. La matrice trasposta di una matrice assegnata si ottiene scambiandone le righe con le colonne. 
+Ad esempio, per calcolare la trasposta di $C$ sarà sufficiente scegliere Strumenti, calcolo matriciale, trasposta
+![trasposta di C](https://user-images.githubusercontent.com/16359799/192107861-62436e8b-17e2-402f-9d08-277da5413bd8.png)
+
+E si ottiene:
+$$
+C^T=\left(\begin{array}{cc}
+-200 & 0 \\
+300 & 100 \\
+-400 & 400
+\end{array}\right)
+$$
+
+## Operazioni con le matrici quadrate
+
+Nel caso di matrici 
+
+
+
+13200 11700 12500
 
 
 
