@@ -311,6 +311,7 @@ Ad esempio, per calcolare la trasposta di $C$ sarà sufficiente scegliere Strume
 ![trasposta di C](https://user-images.githubusercontent.com/16359799/192107861-62436e8b-17e2-402f-9d08-277da5413bd8.png)
 
 E si ottiene:
+
 $$
 C^T=\left(\begin{array}{cc}
 -200 & 0 \\
