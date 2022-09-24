@@ -259,6 +259,27 @@ $$
 
 Per andare allo svolgimento del calcolo fare riferimento all'esempio 6 del file allegato.
 
+Questo tipo di calcoli possono risultare molto complessi, soprattutto in fase di copiatura. E' importante sapere che EDICO offre strumenti che permettono anche la risoluzione automatica delle operazioni su matrici.
+Ad esempio, il calcolo precedente può essere effettuato in modo automatico impostando l'operazione:
+$$
+\left(\begin{array}{ccc}
+10000 & 9000 & 8500 \\
+3400 & 2300 & 4000
+\end{array}\right)
+-
+\left(\begin{array}{ccc}
+9800 & 9300 & 8100 \\
+3400 & 2400 & 4400
+\end{array}\right)
+$$
+
+Per trovarla già scritta si può fare riferimento all'Esempio 7 del file allegato.
+
+A questo punto, per ottenere la matrice $C$ risultato si può scegliere dal menu Strumenti, Calcolo matriciale la funzione Operazioni con matrici.
+![risultato](https://user-images.githubusercontent.com/16359799/192104882-d45953da-a90d-40f1-b555-26be59126259.png)
+
+Notare che la matrice risultato viene concatenata all'operazione. Sarà quindi necessario poi procedere con gli opportuni adeguamenti.
+![risultato](https://user-images.githubusercontent.com/16359799/192104919-836d5c3e-46d7-4a27-bf05-75e201c1fa94.png)
 
 
 
