@@ -178,9 +178,14 @@ Avremo quindi che
 
 $$
 A=\left[\begin{array}{ccc}
+10000 & 9000 & 8500 \\
+3400 & 2300 & 4400
+\end{array}\right]
+$$
+
+$$
+B=\left[\begin{array}{ccc}
 9800 & 9300 & 8100 \\
 3400 & 2400 & 4400
 \end{array}\right]
 $$
-
-
