@@ -252,7 +252,8 @@ Scegliamo quindi il menu Strumenti, quindi Calcolo Matriciale, quindi Operazioni
 
 Il programma ci scriverà in automatico la matrice su cui dovremo andare a effettuare i calcoli.
 Notare che la matrice creata dal programma viene messa in una nuova riga senza assegnarvi un nome o un'uguaglianza. Sarà quindi necessario poi procedere con gli opportuni adeguamenti.
-![risultato](https://user-images.githubusercontent.com/16359799/192106024-8c707c6e-0d6a-43f4-9b3b-101105b8b30e.png)
+![esempio con matrice e sottrazioni da svolgere](https://user-images.githubusercontent.com/16359799/192108045-9ff7f30d-0220-4331-8707-eae9a6b7e1ec.png)
+
 
 Per andare alla matrice C già scritta fare riferimento all'esempio 5 del file allegato.
 
