@@ -21,10 +21,10 @@ Proprio perché queste strutture si espandono su più righe e colonne sono chiam
 E' possibile inserire una tabella in tre modi distinti
 * Premendo CTRL+ALT+T ;
 * Dal menu Inserisci, scegliendo Tabella;
-* Premendo F5 e scegliendo tabella
+* Premendo F5 e scegliendo tabella.
 
 
-In qualunque caso, dando INVIO ci verrà chiesto di specificare un dimensionamento della tabella (numero di righe e numero di coloone).
+In qualunque caso, dando INVIO ci verrà chiesto di specificare un dimensionamento della tabella (numero di righe e numero di colonne).
 
 Possiamo scrivere il valore con la tastiera. Per spostarci fra un campo di testo e l'altro possiamo usare il tasto TAB.
 
@@ -37,7 +37,7 @@ Il cursore verrà riportato nell'editor lineare.
 Rileggendo o consultando una tabella potrebbe essere difficile comprenderne al volo le dimensioni. EDICO ci riporterà il numero di righe e colonne contenute in una tabella richiamando la funzione "Mostra dimensioni".
 Per attivarla procediamo come segue:
 
-1. Posizionamo il cursore sulla tabella
+1. Posizioniamo il cursore sulla tabella
 2. Premiamo Alt+F11
 
 ![Tabella 3 per 4](https://user-images.githubusercontent.com/16359799/192101447-48aaf079-55d9-45b2-aae9-e2b46c1f583f.png)
@@ -52,13 +52,7 @@ Prendiamoci il tempo di esplorare ciò che abbiamo creato. Sul nostro display br
 * Nuova colonna  
 * Nuova colonna  
 * Nuova riga  
-* Nuova colonna  
-* Nuova colonna  
-* Nuova colonna  
-* Nuova riga  
-* Nuova colonna  
-* Nuova colonna  
-* Nuova colonna  
+* eccetera
 * fine tabella 
 
 Fra questi marcatori possiamo andare a inserire manualmente il contenuto della nostra tabella. Ad esempio se vogliamo riempire la prima riga con:
@@ -98,7 +92,7 @@ Questo tipo di Editor è molto comodo per chi lavora in braille se si desidera a
 L'editor bidimensionale appare in una finestra di dialogo che contiene:
 * Una barra dei menu
 * Tanti campi di testo uno per ogni riga della tabella (nel nostro caso 3 campi di testo)
-* Un pulsante Aggiorna attivabile anche premendo semplicmenente INVIO.
+* Un pulsante Aggiorna attivabile anche premendo semplicemente INVIO.
 
 Ci si può spostare fra i vari controlli premendo TAB. Ci si può spostare fra le varie righe anche usando le frecce su e giù.
 
@@ -139,7 +133,7 @@ Al termine potete completare l'esercizio aggiungendo due righe alla tabella copi
 
 ![Esempio](https://user-images.githubusercontent.com/16359799/192100537-bb2e3ec9-0c29-4f28-aa8e-33ee07aa09c7.png)
 
-La tabella in questo caso rappresenta una informazione. In questo caso i profitti di un negozio di elettronica nel mese di Febbraio. Possiamo completare l'esercizio aggiungendo un testo che descrive la tabella. Ad esempio: 
+La tabella in questo caso rappresenta una informazione. Nello specifico i profitti di un negozio di elettronica nel mese di Febbraio. Possiamo completare l'esercizio aggiungendo un testo che descrive la tabella. Ad esempio: 
 
 Profitto febbraio (euro) 
 
@@ -164,13 +158,13 @@ Per l'esempio già scritto fare riferimento all'Esempio 3 del file allegato.
 
 A partire dall'editor bidimensionale è anche possibile spostarsi rapidamente alla tabella precedente o successiva. Se, ad esempio stiamo valutando i profitti di marzo e vogliamo compararli coi profitti di febbraio, possiamo spostarci alla tabella precedente semplicemente premendo Pagina Su o scegliendo "tabella precedente" dal menu "Vai a".
 
-![Vai a pagina precedente](https://user-images.githubusercontent.com/16359799/192101307-7c3d8caf-9a66-40bf-bfa8-01de359a721c.png)
+![Vai a tabella precedente](https://user-images.githubusercontent.com/16359799/192101307-7c3d8caf-9a66-40bf-bfa8-01de359a721c.png)
 
 Si può naturalmente effettuare l'operazione inversa premendo Pagina Giù o selezionando la relativa voce dal menu "Vai a".
 
-## Le matrici
+## L'uso delle matrici
 
-Proprio come le tabelle, EDICO ci permette di gestire in modo del tutto analogo le matrici. Richiamando l'esempio precedente, supponiamo voler calcolare, per ciascun periodo, la differenza fra i due profitti.
+EDICO ci permette di gestire le matrici in modo del tutto analogo a ciò che abbiamo visto con le tabelle. Richiamando l'esempio precedente, supponiamo di voler calcolare, per ciascun periodo, la differenza fra i due profitti.
 
 Impostiamo quindi due matrici A e B, di cui la prima conterrà i dati di febbraio mentre la seconda conterrà i dati di marzo.
 
@@ -195,13 +189,13 @@ Vogliamo quindi scrivere le matrici A e B in EDICO.
 E' possibile inserire una matrice in tre modi distinti
 * Premendo CTRL+ALT+M ;
 * Dal menu Inserisci, scegliendo Matrice;
-* Premendo F5 e scegliendo matrice
+* Premendo F5 e scegliendo matrice.
 
 Scegliamo il modo a noi più congeniale.
 Creiamo quindi una semplice matrice 2 per 3 in modo del tutto simile a come abbiamo fatto in precedenza per le tabelle:
 ![creazione matrice](https://user-images.githubusercontent.com/16359799/192102547-6e7fe497-a262-4800-95ba-d2ffe40ce660.png)
 
-In modo del tutto simile alle tabelle ci troveremo di fronte ad una serie di marcatori:
+Similmente a ciò che avviene con le tabelle, ci troveremo di fronte ad una serie di marcatori:
 * matrice
 * Nuova colonna
 * Nuova colonna
@@ -211,13 +205,14 @@ In modo del tutto simile alle tabelle ci troveremo di fronte ad una serie di mar
 * fine matrice 
 
 Proprio come nel caso delle tabelle è possibile utilizzare l'editor bidimensionale e l'editor bidimensionale in celle per gestire la matrice.
-Procedo quindi nello scrivere le due matrici A e B.
+Procedo quindi nello scrivere le due matrici $A$ e $B$.
 
 Ecco mentre sto scrivendo $A$:
 ![scrivo la matrice A](https://user-images.githubusercontent.com/16359799/192102838-34a30ca5-dcc3-46df-9adf-65e413fb3610.png)
 
 Copiamo anche $B$ e dovremmo ora avere un qualcosa di simile a ciò che appare in figura:
 ![esempio](https://user-images.githubusercontent.com/16359799/192102998-3f58dfb6-ca6a-4d87-9a3c-bd6d75f63a41.png)
+
 Per l'esempio già scritto fare riferimento all'Esempio 4 del file allegato.
 
 A questo punto, applicando le regole delle matrici, possiamo calcolare la matrice:
@@ -230,9 +225,9 @@ Ci troveremmo però a dover gestire 3 matrici contemporaneamente $A$, $B$ e $C$.
 
 Questo, se all'inizio può aiutarci a capire come impostare correttamente il calcolo, a tendere rischia di portarci a effettuare errori di copiatura.
 
-EDICO in questo caso offre uno strumento in più che può essere richiamato dal menu Strumenti che va a impostare automaticamente i calcoli (senza risolverli).
+EDICO in questo caso offre una funzione in più che può essere richiamata dal menu Strumenti e che va a impostare automaticamente i calcoli (senza risolverli).
 
-Per utilizzarlo dobbiamo per prima cosa scrivere l'operazione che vogliamo svolgere e quindi copiamo la matrice A, aggiungiamo un meno, quindi copiamo la matrice B:
+Per utilizzarla dobbiamo per prima cosa scrivere l'operazione che vogliamo svolgere e quindi copiamo la matrice A, aggiungiamo un meno, quindi copiamo la matrice B:
 
 
 $$
@@ -255,7 +250,7 @@ Notare che la matrice creata dal programma viene messa in una nuova riga senza a
 ![esempio con matrice e sottrazioni da svolgere](https://user-images.githubusercontent.com/16359799/192108045-9ff7f30d-0220-4331-8707-eae9a6b7e1ec.png)
 
 
-Per andare alla matrice C già scritta fare riferimento all'esempio 5 del file allegato.
+Per andare alla matrice $C$ già scritta fare riferimento all'esempio 5 del file allegato.
 
 Ora possiamo duplicare la riga con Control+d che, in questo caso duplicherà la riga dell'editor lineare e quindi l'intera matrice.
 
@@ -286,7 +281,7 @@ Per ottenere la matrice $C$ risultato già calcolata si può scegliere dal menu 
 Notare che la matrice risultato viene concatenata all'operazione. Sarà quindi necessario poi procedere con gli opportuni adeguamenti.
 ![risultato](https://user-images.githubusercontent.com/16359799/192104919-836d5c3e-46d7-4a27-bf05-75e201c1fa94.png)
 
-Per vedere un esempio di risoluzione automatica dei calcoli riferimento all'Esempio 7 del file allegato.
+Per vedere un esempio di risoluzione automatica dei calcoli, fare riferimento all'Esempio 7 del file allegato.
 
 Questi strumenti possono essere impiegati anche per effettuare operazioni più complicate come le operazioni di moltiplicazione (riga per colonna) fra matrici, vettori e scalari.
 Ad esempio se volessimo calcolare Qual è il profitto di febbraio suddiviso per area dovremmo effettuare l'operazione:
@@ -300,9 +295,11 @@ $$
 Andiamo quindi a creare una matrice con 1 riga e 2 colonne che riempiamo con 1. Moltiplichiamo quindi questa matrice per $A$.
 ![risultato](https://user-images.githubusercontent.com/16359799/192106752-11736975-9d3b-432f-a63f-e974b42516c6.png)
 
-E q auesto punto possiamo vedere qual è il profitto complessivo di febbraio moltiplicando per il vettore unitario verticale.
+E a questo punto possiamo vedere qual è il profitto complessivo di febbraio moltiplicando per il vettore unitario verticale.
 Andiamo a creare quindi una matrice 3 per 1 e riempiamola con "1" e la moltiplichiamo per il vettore risultante dalla precedente operazione. Attiviamo quindi la funzione "Operazioni con matrici" dal menu Strumenti, Calcolo matriciale.
 ![risultato](https://user-images.githubusercontent.com/16359799/192106845-b8e94e4b-c129-4a20-8833-950d4085e2d4.png)
+
+e si ottiene il valore  $37200$ .
 
 Per i dettagli si può fare riferimento all'Esempio 8 del file allegato.
 
@@ -321,13 +318,3 @@ C^T=\left(\begin{array}{cc}
 $$
 
 ## Operazioni con le matrici quadrate
-
-Nel caso di matrici 
-
-
-
-13200 11700 12500
-
-
-
-
