@@ -261,6 +261,8 @@ Per andare allo svolgimento del calcolo fare riferimento all'esempio 6 del file 
 
 Questo tipo di calcoli possono risultare molto complessi, soprattutto in fase di copiatura. E' importante sapere che EDICO offre strumenti che permettono anche la risoluzione automatica delle operazioni su matrici.
 Ad esempio, il calcolo precedente può essere effettuato in modo automatico impostando l'operazione:
+
+
 $$
 \left(\begin{array}{ccc}
 10000 & 9000 & 8500 \\
