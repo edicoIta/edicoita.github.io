@@ -144,3 +144,14 @@ Profitto marzo (euro)
 | TV | 9800€ | 9300€ | 8100€ |
 | Radio | 3400€ | 2400€ | 4400€ |
 
+Provate l'inserimento con l'editor bidmensionale o l'editor bidimensionale in celle per comprendere le differenze fra i due strumenti anche in fase di inserimento e spostamento fra le celle.
+
+![image](https://user-images.githubusercontent.com/16359799/192101141-c548e1a9-0adb-4dbc-85e9-49f975461d65.png)
+
+Per l'esempio già scritto fare riferimento all'Esempio 3 del file allegato.
+
+A partire dall'editor bidimensionale è anche possibile spostarsi rapidamente alla tabella precedente o successiva. Se, ad esempio stiamo valutando i profitti di marzo e vogliamo compararli coi profitti di febbraio, possiamo spostarci alla tabella precedente semplicemente premendo Pagina Su o scegliendo "tabella precedente" dal menu "Vai a".
+
+![Vai a pagina precedente](https://user-images.githubusercontent.com/16359799/192101307-7c3d8caf-9a66-40bf-bfa8-01de359a721c.png)
+
+
