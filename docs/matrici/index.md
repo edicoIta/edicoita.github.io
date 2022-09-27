@@ -168,24 +168,26 @@ Si può naturalmente effettuare l'operazione inversa premendo Pagina Giù o sele
 
 ## L'uso delle matrici
 
-EDICO ci permette di gestire le matrici in modo del tutto analogo a ciò che abbiamo visto con le tabelle. Richiamando l'esempio precedente, supponiamo di voler calcolare, per ciascun periodo, la differenza fra i due profitti.
+EDICO ci permette di gestire le matrici in modo del tutto analogo a ciò che abbiamo visto con le tabelle. Possiamo quindi richiamare le stesse funzioni già viste nella sezione precedente. 
+
+Richiamando l'esempio precedente, supponiamo di voler calcolare, per ciascun periodo, la differenza fra i due profitti.
 
 Impostiamo quindi due matrici A e B, di cui la prima conterrà i dati di febbraio mentre la seconda conterrà i dati di marzo.
 
 Avremo quindi che
 
 $$
-A=\left(\begin{array}{ccc}
+A=\begin{pmatrix}
 10000 & 9000 & 8500 \\
 3400 & 2300 & 4000
-\end{array}\right)
+\end{pmatrix}
 $$
 
 $$
-B=\left(\begin{array}{ccc}
+B=\begin{pmatrix}
 9800 & 9300 & 8100 \\
 3400 & 2400 & 4400
-\end{array}\right)
+\end{pmatrix}
 $$
 
 Vogliamo quindi scrivere le matrici A e B in EDICO.
@@ -235,15 +237,15 @@ Per utilizzarla dobbiamo per prima cosa scrivere l'operazione che vogliamo svolg
 
 
 $$
-\left(\begin{array}{ccc}
+\begin{pmatrix}
 9800 & 9300 & 8100 \\
 3400 & 2400 & 4400
-\end{array}\right)
+\end{pmatrix}
 -\\
-\left(\begin{array}{ccc}
+\begin{pmatrix}
 10000 & 9000 & 8500 \\
 3400 & 2300 & 4000
-\end{array}\right)
+\end{pmatrix}
 $$
 
 Scegliamo quindi il menu Strumenti, quindi Calcolo Matriciale, quindi Operazioni con sviluppo
@@ -269,10 +271,10 @@ Quindi possiamo entrare nuovamente nell'editor bidimensionale con F11 e svolgere
 Otteniamo quindi la matrice calcolata 
 
 $$
-C=\left(\begin{array}{ccc}
+C=\begin{pmatrix}
 -200 & 300 & -400 \\
 0 & 100 & 400
-\end{array}\right)
+\end{pmatrix}
 $$
 
 Per andare allo svolgimento del calcolo fare riferimento all'esempio 6 del file allegato.
@@ -290,9 +292,9 @@ Questi strumenti possono essere impiegati anche per effettuare operazioni più c
 Ad esempio se volessimo calcolare Qual è il profitto di febbraio suddiviso per area dovremmo effettuare l'operazione:
 
 $$
-\left[\begin{array}{ll}
+\begin{pmatrix}
 1 & 1
-\end{array}\right] \cdot A:
+\end{pmatrix} \cdot A:
 $$
 
 Andiamo quindi a creare una matrice con 1 riga e 2 colonne che riempiamo con 1. Moltiplichiamo quindi questa matrice per $A$.
@@ -313,11 +315,11 @@ Ad esempio, per calcolare la trasposta di $C$ sarà sufficiente scegliere Strume
 E si ottiene:
 
 $$
-C^T=\left(\begin{array}{cc}
+C^T=\begin{pmatrix}
 -200 & 0 \\
 300 & 100 \\
 -400 & 400
-\end{array}\right)
+\end{pmatrix}
 $$
 
 ## Operazioni con le matrici quadrate
