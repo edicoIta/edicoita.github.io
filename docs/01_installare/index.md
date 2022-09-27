@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Installare EDICO
 ----
 

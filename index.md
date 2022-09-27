@@ -4,6 +4,7 @@ layout: default
 # Tutorial per l'uso di EDICO
 * * *
 
-
-- [Matrici](docs/matrici)
+- [Installare EDICO](docs/01_installare)
+- ...
+- [Tabelle e matrici: le strutture bidimensionali](docs/matrici)
 - ...
