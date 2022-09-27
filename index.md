@@ -5,5 +5,5 @@ layout: default
 * * *
 
 
-- [Matrici](docs/matrici/index.md)
+- [Matrici](docs/matrici)
 - ...

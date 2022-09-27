@@ -30,26 +30,20 @@
 
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
-    TeX: {
-      equationNumbers: {
-        autoNumber: "AMS"
-      }
-    },
     tex2jax: {
     inlineMath: [ ['$', '$'] ],
-    displayMath: [ ['$$', '$$'] ],
-    processEscapes: true,
   }
 });
-MathJax.Hub.Register.MessageHook("Math Processing Error",function (message) {
-	  alert("Math Processing Error: "+message[1]);
-	});
-MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
-	  alert("Math Processing Error: "+message[1]);
-	});
+
+MathJax.Hub.Register.StartupHook('TeX Jax Ready', function () {
+      MathJax.InputJax.TeX.prefilterHooks.Add(function (data) {
+        data.math = data.math.replace('<br/>', '\\');
+      });
+    });
 </script>
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>                                                                   
+<script type="text/javascript" async                                        
+src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 <!-- You can set your favicon here -->
 <!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
@@ -58,11 +52,11 @@ MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
 
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+    <a id="skip-to-content" href="#content">Vai al contenuto.</a>
 
     <a href="http://localhost:4000/">
 	<header class="page-header" role="banner">
-      <h1 class="project-name">Tutorial su EDICO</h1>
+		<h1 class="project-name">Tutorial su EDICO</h1>
       <h2 class="project-tagline">EDICO l'editor scientifico per non vedenti.</h2>
     </header>
 	</a>
@@ -294,16 +288,15 @@ Al termine potete completare l’esercizio aggiungendo due righe alla tabella co
 
 <p>Avremo quindi che</p>
 
-\[A=
-\begin{pmatrix}
+\[A=\left(\begin{array}{ccc}
 10000 &amp; 9000 &amp; 8500 \\
 3400 &amp; 2300 &amp; 4000
-\end{pmatrix}\]
+\end{array}\right)\]
 
-\[B = \begin{pmatrix}
+\[B=\left(\begin{array}{ccc}
 9800 &amp; 9300 &amp; 8100 \\
 3400 &amp; 2400 &amp; 4400
-\end{pmatrix}\]
+\end{array}\right)\]
 
 <p>Vogliamo quindi scrivere le matrici A e B in EDICO.</p>
 
@@ -354,15 +347,15 @@ Ci troveremmo però a dover gestire 3 matrici contemporaneamente $A$, $B$ e $C$.
 
 <p>Per utilizzarla dobbiamo per prima cosa scrivere l’operazione che vogliamo svolgere e quindi copiamo la matrice B, aggiungiamo un meno, quindi copiamo la matrice A:</p>
 
-\[\begin{pmatrix}
+\[\left(\begin{array}{ccc}
 9800 &amp; 9300 &amp; 8100 \\
 3400 &amp; 2400 &amp; 4400
-\end{pmatrix}
+\end{array}\right)
 -\\
-\begin{pmatrix}
+\left(\begin{array}{ccc}
 10000 &amp; 9000 &amp; 8500 \\
 3400 &amp; 2300 &amp; 4000
-\end{pmatrix}\]
+\end{array}\right)\]
 
 <p>Scegliamo quindi il menu Strumenti, quindi Calcolo Matriciale, quindi Operazioni con sviluppo
 <img src="https://user-images.githubusercontent.com/16359799/192113702-c5f3e7e5-bb0b-4d01-8a72-f160bbe2394d.png" alt="selezione da menu" /></p>
@@ -388,10 +381,10 @@ Notare che la matrice creata dal programma viene messa in una nuova riga senza a
 
 <p>Otteniamo quindi la matrice calcolata</p>
 
-\[C=\begin{pmatrix}
+\[C=\left(\begin{array}{ccc}
 -200 &amp; 300 &amp; -400 \\
 0 &amp; 100 &amp; 400
-\end{pmatrix}\]
+\end{array}\right)\]
 
 <p>Per andare allo svolgimento del calcolo fare riferimento all’esempio 6 del file allegato.</p>
 
@@ -432,7 +425,7 @@ Ad esempio, per calcolare la trasposta di $C$ sarà sufficiente scegliere Strume
 -200 &amp; 0 \\
 300 &amp; 100 \\
 -400 &amp; 400
-\end{pmatrix}\]
+\end{array}\right)\]
 
 <h2 id="operazioni-con-le-matrici-quadrate">Operazioni con le matrici quadrate</h2>
 

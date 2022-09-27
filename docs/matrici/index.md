@@ -174,20 +174,18 @@ Impostiamo quindi due matrici A e B, di cui la prima conterrà i dati di febbrai
 
 Avremo quindi che
 
-
 $$
-A=
-\begin{pmatrix}
+A=\left(\begin{array}{ccc}
 10000 & 9000 & 8500 \\
 3400 & 2300 & 4000
-\end{pmatrix}
+\end{array}\right)
 $$
 
 $$
-B = \begin{pmatrix}
+B=\left(\begin{array}{ccc}
 9800 & 9300 & 8100 \\
 3400 & 2400 & 4400
-\end{pmatrix}
+\end{array}\right)
 $$
 
 Vogliamo quindi scrivere le matrici A e B in EDICO.
@@ -237,15 +235,15 @@ Per utilizzarla dobbiamo per prima cosa scrivere l'operazione che vogliamo svolg
 
 
 $$
-\begin{pmatrix}
+\left(\begin{array}{ccc}
 9800 & 9300 & 8100 \\
 3400 & 2400 & 4400
-\end{pmatrix}
+\end{array}\right)
 -\\
-\begin{pmatrix}
+\left(\begin{array}{ccc}
 10000 & 9000 & 8500 \\
 3400 & 2300 & 4000
-\end{pmatrix}
+\end{array}\right)
 $$
 
 Scegliamo quindi il menu Strumenti, quindi Calcolo Matriciale, quindi Operazioni con sviluppo
@@ -271,10 +269,10 @@ Quindi possiamo entrare nuovamente nell'editor bidimensionale con F11 e svolgere
 Otteniamo quindi la matrice calcolata 
 
 $$
-C=\begin{pmatrix}
+C=\left(\begin{array}{ccc}
 -200 & 300 & -400 \\
 0 & 100 & 400
-\end{pmatrix}
+\end{array}\right)
 $$
 
 Per andare allo svolgimento del calcolo fare riferimento all'esempio 6 del file allegato.
@@ -319,7 +317,7 @@ C^T=\left(\begin{array}{cc}
 -200 & 0 \\
 300 & 100 \\
 -400 & 400
-\end{pmatrix}
+\end{array}\right)
 $$
 
 ## Operazioni con le matrici quadrate
