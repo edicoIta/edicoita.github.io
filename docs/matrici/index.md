@@ -7,6 +7,9 @@ layout: default
 
 ![Tabelle e matrici](https://user-images.githubusercontent.com/16359799/192094768-6ef3a876-8ed8-4c39-adbe-a2b6e8f650a9.png)
 
+## Allegati
+[Gli esempi che svolgeremo in questo tutorial sono disponibili già completati a questo link](esempi.edi)
+
 
 Le tabelle e le matrici sono particolari elementi con struttura a griglia, formate da colonne e da righe.
 
@@ -413,6 +416,3 @@ Per farlo procedere come segue
 ![image](https://user-images.githubusercontent.com/16359799/192739801-483cb9fb-a7fd-487f-a9a5-f9a1f1be78ea.png)
 
 Per un riferimento a questi calcoli si veda l'Esempio 10 del file allegato.
-
-## Allegato
-Gli esempi allegati sono disponibili a questo link.
