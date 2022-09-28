@@ -342,6 +342,13 @@ end{pmatrix}
 Procediamo come segue:
 
 1. Scriviamo la matrice in EDICO come abbiamo già fatto negli esempi precedenti: ![image](https://user-images.githubusercontent.com/16359799/192727257-de575e2d-f86c-417c-aa95-73f8251f63fb.png)
-2. Copiamo la matrice quindi scriviamo det. e incolliamo la matrice per ottenere $det(\begin{pmatrix}1&0&-3\\1&-1&1\\-1&1&0\\end{pmatrix})$
-3. 
-4. 
+2. Copiamo la matrice quindi scriviamo det. e incolliamo la matrice per ottenere 
+$$
+det\begin{pmatrix}
+1&0&-3\\
+1&-1&1\\
+-1&1&0\\
+end{pmatrix})
+$$
+3. conotinuo 
+4.  
