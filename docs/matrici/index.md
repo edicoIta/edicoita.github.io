@@ -338,7 +338,7 @@ M=\begin{pmatrix}
 1&0&-3\\
 1&-1&1\\
 -1&1&0\\
-end{pmatrix}
+\end{pmatrix}
 $$
 Procediamo come segue:
 
@@ -352,7 +352,7 @@ $$
 1&0&-3&1&0\\
 1&-1&1&1&-1\\
 -1&1&0&-1&1\\
-end{pmatrix}
+\end{pmatrix}
 $$
 
 6. Usiamo l'editor in celle, aggiungiamo una riga e nella prima colonna dell'ultima riga eseguiamo i calcoli come in figura: ![image](https://user-images.githubusercontent.com/16359799/192735461-1e02173f-b327-4ed7-96fa-afc591ddb885.png)
