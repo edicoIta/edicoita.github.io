@@ -323,3 +323,25 @@ C^T=\begin{pmatrix}
 $$
 
 ## Operazioni con le matrici quadrate
+Una matrice è detta quadrata quando il numero di righe è uguale al numero di colonne.
+Queste matrici hanno particolari proprietà come i *determinanti*.
+
+A ogni matrice quadrata viene associato un numero reale, detto determinante della matrice. Per indicare il determinante di una matrice si può scrivere «det» davanti alla matrice, oppure scrivere gli stessi elementi della matrice, delimitati da due righe verticali.
+
+EDICO ci permette di calcolare sia in modo manuale che in modo automatico il determinante di una matrice.
+
+Ad esempio, se vogliamo calcolare il determinante della matrice:
+
+$$
+M=\begin{pmatrix}
+1&0&-3\\
+1&-1&1\\
+-1&1&0\\
+end{pmatrix}
+
+Procediamo come segue:
+
+1. Scriviamo la matrice in EDICO come abbiamo già fatto negli esempi precedenti: ![image](https://user-images.githubusercontent.com/16359799/192727257-de575e2d-f86c-417c-aa95-73f8251f63fb.png)
+2. Copiamo la matrice quindi scriviamo det. e incolliamo la matrice per ottenere $det(\begin{pmatrix}1&0&-3\\1&-1&1\\-1&1&0\\end{pmatrix})$
+3. 
+4. 
