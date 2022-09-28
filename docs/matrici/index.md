@@ -360,7 +360,7 @@ $$
 \end{pmatrix}
 $$
 
-6. Usiamo l'editor in celle, aggiungiamo una riga e nella prima colonna dell'ultima riga eseguiamo i calcoli come in figura: ![image](https://user-images.githubusercontent.com/16359799/192735461-1e02173f-b327-4ed7-96fa-afc591ddb885.png)
+6. Usiamo l'editor in celle, aggiungiamo una riga e nella prima colonna dell'ultima riga eseguiamo i calcoli come in figura: ![image](https://user-images.githubusercontent.com/16359799/192775761-ee8e5106-7646-4086-9bd7-9111b2010c74.png)
 7. Una volta calcolato copiamo negli appunti i calcoli e cancelliamo la riga in più: ![image](https://user-images.githubusercontent.com/16359799/192735707-c6f18493-a3d3-4f85-940b-6fb1ecf5eb02.png)
 8. E riportiamo nel quaderno i calcoli scrivendo quindi:
 
