@@ -329,6 +329,7 @@ Queste matrici hanno particolari proprietà come i *determinanti*.
 
 A ogni matrice quadrata viene associato un numero reale, detto determinante della matrice. Per indicare il determinante di una matrice si può scrivere «det» davanti alla matrice, oppure scrivere gli stessi elementi della matrice, delimitati da due righe verticali.
 
+### Determinante e traccia
 EDICO ci permette di calcolare sia in modo manuale che in modo automatico il determinante di una matrice.
 
 Ad esempio, se vogliamo calcolare il determinante della matrice:
@@ -340,6 +341,7 @@ M=\begin{pmatrix}
 -1&1&0\\
 \end{pmatrix}
 $$
+
 Procediamo come segue:
 
 1. Scriviamo la matrice in EDICO come abbiamo già fatto negli esempi precedenti: ![image](https://user-images.githubusercontent.com/16359799/192727257-de575e2d-f86c-417c-aa95-73f8251f63fb.png)
@@ -380,3 +382,27 @@ E' anche possibile calcolare automaticamente il determinante. Per farlo proceder
 Se in una riga abbiamo solo una matrice possiamo anche calcolare il determinante scegliendo dal menu Strumenti, Calcolo matriciale, la voce determinante come in figura:
 ![Determinante da finestra principale del programma](https://user-images.githubusercontent.com/16359799/192737972-6da8481e-3fb7-4973-bcc8-5e647fb2dd26.png)
 
+Allo stesso modo è possibile calcolare la traccia della matrice.
+
+### Matrice dei cofattori
+EDICO ci offre una struttura didattica per comprendere e facilitare il calcolo della matrice dei cofattori.
+Considerando sempre l'esempio precedente, se vogliamo calcolare il cofattore nella posizione $a_{1,1}$ possiamo procedere nel modo seguente:
+1. Scriviamo la matrice originale
+2. Dal menu Strutture didattiche scegliamo Cofattori
+3. Dal menu Modifica scegliamo "Elimina Riga" (per eliminare la prima riga) e "Elimina Colonna" per eliminare la prima colonna. Procediamo quindi al calcolo del determinante e all'applicazione della regola
+5. Ci annotiamo il cofattore nell'apposito spazio premendo TAB ![image](https://user-images.githubusercontent.com/16359799/192745659-9339b310-3611-44a4-9053-3fd42c4bc6ec.png)
+6. Scegliamo copia cofattore dal menu Azioni quindi la struttura didattica ci riporterà in automatico alla matrice originale.
+![image](https://user-images.githubusercontent.com/16359799/192745954-3315bf4f-0e03-488c-be9a-91175dcd1bbc.png)
+
+E' anche possibile effettuare il calcolo automatico della matrice di cofattori di un elemento dall'editor bidimensionale. Per ottenerlo attivare la funzione "Cofattori di un elemento" dal menu Azioni.
+
+Infine possiamo calcolare l'inversa di una matrice in modo automatico.
+Proviamo ad esempio con l'inversa della matrice in esempio. 
+Per farlo procedere come segue
+1. Copiamo la matrice in una nuova riga
+2. Dal menu Strumenti scegliamo Calcolo matriciale quindi Inversa
+3. Otterremo l'inversa nella stessa riga della matrice data, come in figura: ![image](https://user-images.githubusercontent.com/16359799/192739397-75a06a0e-aa03-455e-a8f7-09d0d91cdb75.png)
+4. Sistemiamo opportunamente e otteniamo nel quaderno l'inversa scritta correttamente.
+![image](https://user-images.githubusercontent.com/16359799/192739801-483cb9fb-a7fd-487f-a9a5-f9a1f1be78ea.png)
+
+Per un riferimento a questi calcoli si veda l'Esempio 10 del file allegato.
