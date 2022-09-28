@@ -384,15 +384,16 @@ Se in una riga abbiamo solo una matrice possiamo anche calcolare il determinante
 
 Allo stesso modo è possibile calcolare la traccia della matrice.
 
-### Matrice dei cofattori
+### Matrice dei cofattori, aggiunta e inversa di una matrice
 EDICO ci offre una struttura didattica per comprendere e facilitare il calcolo della matrice dei cofattori.
 Considerando sempre l'esempio precedente, se vogliamo calcolare il cofattore nella posizione $a_{1,1}$ possiamo procedere nel modo seguente:
 1. Scriviamo la matrice originale
 2. Dal menu Strutture didattiche scegliamo Cofattori
 3. Dal menu Modifica scegliamo "Elimina Riga" (per eliminare la prima riga) e "Elimina Colonna" per eliminare la prima colonna. Procediamo quindi al calcolo del determinante e all'applicazione della regola
-5. Ci annotiamo il cofattore nell'apposito spazio premendo TAB ![image](https://user-images.githubusercontent.com/16359799/192745659-9339b310-3611-44a4-9053-3fd42c4bc6ec.png)
+5. Ci annotiamo il cofattore nell'apposito spazio premendo TAB ![Calcoliamo il primo cofattore, nel nostro caso -1](https://user-images.githubusercontent.com/16359799/192747666-3f166e46-db15-4c44-b1ed-9c863b80f6b2.png)
 6. Scegliamo copia cofattore dal menu Azioni quindi la struttura didattica ci riporterà in automatico alla matrice originale.
-![image](https://user-images.githubusercontent.com/16359799/192745954-3315bf4f-0e03-488c-be9a-91175dcd1bbc.png)
+![Dopo aver copiato il programma ci riporta alla matrice originale](https://user-images.githubusercontent.com/16359799/192747966-029f31f0-e2d9-470c-9100-0ac2ceeb69d4.png)
+
 
 E' anche possibile effettuare il calcolo automatico della matrice di cofattori di un elemento dall'editor bidimensionale. Per ottenerlo attivare la funzione "Cofattori di un elemento" dal menu Azioni.
 
