@@ -404,7 +404,7 @@ Per avere il calcolo automatico della matrice aggiunta di una matrice possiamo p
 ![image](https://user-images.githubusercontent.com/16359799/192749522-22ade351-99a7-4569-bf06-833d5a88b1b8.png)
 
 Infine possiamo calcolare l'inversa di una matrice in modo automatico.
-Proviamo ad esempio con l'inversa della matrice in esempio. 
+Proviamo con l'inversa della matrice dell'esempio precedente. 
 Per farlo procedere come segue
 1. Copiamo la matrice in una nuova riga
 2. Dal menu Strumenti scegliamo Calcolo matriciale quindi Inversa
