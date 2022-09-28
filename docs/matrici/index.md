@@ -18,7 +18,8 @@ Le matrici sono dei tipi particolari di tabelle che, graficamente, non presentan
 
 EDICO permette di lavorare con tabelle e matrici.
 
-Proprio perché queste strutture si espandono su più righe e colonne sono chiamati elementi bidimensionali: dove la prima dimensione sono le righe e la seconda dimensione le colonne.
+Proprio perché queste strutture si espandono su più righe e colonne sono chiamati elementi bidimensionali
+dove la prima dimensione sono le righe e la seconda dimensione le colonne.
 
 ## L'uso delle tabelle
 
@@ -294,7 +295,7 @@ Ad esempio se volessimo calcolare Qual è il profitto di febbraio suddiviso per 
 $$
 \begin{pmatrix}
 1 & 1
-\end{pmatrix} \cdot A:
+\end{pmatrix} \cdot A
 $$
 
 Andiamo quindi a creare una matrice con 1 riga e 2 colonne che riempiamo con 1. Moltiplichiamo quindi questa matrice per $A$.
@@ -338,19 +339,31 @@ M=\begin{pmatrix}
 1&-1&1\\
 -1&1&0\\
 end{pmatrix}
-
+$$
 Procediamo come segue:
 
 1. Scriviamo la matrice in EDICO come abbiamo già fatto negli esempi precedenti: ![image](https://user-images.githubusercontent.com/16359799/192727257-de575e2d-f86c-417c-aa95-73f8251f63fb.png)
-2. Copiamo la matrice quindi scriviamo det. e incolliamo la matrice per ottenere 
+2. Copiamo la matrice quindi apriamo l'editor bidimensionale
+3. Per applicare la regola di Sarrus in EDICO scegliamo dal menu Modifica la voce "Nuova Colonna", per due volte ![image](https://user-images.githubusercontent.com/16359799/192729370-c5d03eaa-4a73-4f0a-99fb-dd31d8fba6d5.png)
+4. Andiamo quindi per ogni riga a ricopiare le prime due colonne e otteniamo quindi:
+
+$$
+\begin{pmatrix}
+1&0&-3&1&0\\
+1&-1&1&1&-1\\
+-1&1&0&-1&1\\
+end{pmatrix}
+$$
+
+6. Usiamo l'editor in celle, aggiungiamo una riga e nella prima colonna dell'ultima riga eseguiamo i calcoli come in figura: ![image](https://user-images.githubusercontent.com/16359799/192735461-1e02173f-b327-4ed7-96fa-afc591ddb885.png)
+7. Una volta calcolato copiamo negli appunti i calcoli e cancelliamo la riga in più: ![image](https://user-images.githubusercontent.com/16359799/192735707-c6f18493-a3d3-4f85-940b-6fb1ecf5eb02.png)
+8. E riportiamo nel quaderno i calcoli scrivendo quindi:
 
 $$
 det \begin{pmatrix}
 1&0&-3\\
 1&-1&1\\
 -1&1&0\\
-\end{pmatrix}
+\end{pmatrix} = 0+0-3+3-1+0 = -1
 $$
 
-3. conotinuo 
-4.  
