@@ -5,7 +5,7 @@ layout: default
 # Tabelle e matrici, le strutture bidimensionali
 * * *
 
-![Tabelle e matrici](https://user-images.githubusercontent.com/16359799/192094768-6ef3a876-8ed8-4c39-adbe-a2b6e8f650a9.png =250x)
+![Tabelle e matrici](https://user-images.githubusercontent.com/16359799/192094768-6ef3a876-8ed8-4c39-adbe-a2b6e8f650a9.png)
 
 ## Allegati
 [Gli esempi che svolgeremo in questo tutorial sono disponibili già completati a questo link](esempi.edi)
