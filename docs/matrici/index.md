@@ -394,8 +394,14 @@ Considerando sempre l'esempio precedente, se vogliamo calcolare il cofattore nel
 6. Scegliamo copia cofattore dal menu Azioni quindi la struttura didattica ci riporterà in automatico alla matrice originale.
 ![Dopo aver copiato il programma ci riporta alla matrice originale](https://user-images.githubusercontent.com/16359799/192747966-029f31f0-e2d9-470c-9100-0ac2ceeb69d4.png)
 
-
 E' anche possibile effettuare il calcolo automatico della matrice di cofattori di un elemento dall'editor bidimensionale. Per ottenerlo attivare la funzione "Cofattori di un elemento" dal menu Azioni.
+
+Per avere il calcolo automatico della matrice aggiunta di una matrice possiamo procedere come segue:
+1. Copiamo la matrice di partenza in una nuova riga.
+2. Dal menu Strumenti scegliamo Calcolo matriciale quindi Aggiunta
+3. Otterremo l'aggiunta nella stessa riga della matrice data, come in figura: ![image](https://user-images.githubusercontent.com/16359799/192749145-c152996f-447d-4d9c-9b83-f54389fbf468.png)
+5. Sistemiamo opportunamente e otteniamo nel nostro foglio di lavoro l'aggiunta scritta correttamente (per scriverne il simbolo ricordiamoci che questo è richiamabile  dal menu F5 come cofattori o scrivendo adj.).
+![image](https://user-images.githubusercontent.com/16359799/192749522-22ade351-99a7-4569-bf06-833d5a88b1b8.png)
 
 Infine possiamo calcolare l'inversa di una matrice in modo automatico.
 Proviamo ad esempio con l'inversa della matrice in esempio. 
@@ -407,3 +413,6 @@ Per farlo procedere come segue
 ![image](https://user-images.githubusercontent.com/16359799/192739801-483cb9fb-a7fd-487f-a9a5-f9a1f1be78ea.png)
 
 Per un riferimento a questi calcoli si veda l'Esempio 10 del file allegato.
+
+## Allegato
+Gli esempi allegati sono disponibili a questo link.
