@@ -367,3 +367,16 @@ det \begin{pmatrix}
 \end{pmatrix} = 0+0-3+3-1+0 = -1
 $$
 
+![image](https://user-images.githubusercontent.com/16359799/192736345-f8833e7c-04e5-458a-9b2c-c67e4124f9e9.png)
+
+Per avere lo svolgimento già scritto è possibile fare riferimento all'Esempio 9 del file allegato.
+
+E' anche possibile calcolare automaticamente il determinante. Per farlo procedere come segue:
+
+1. Aprire la matrice quadrata scritta in precedenza nell'editor bidimensionale
+2. Dal menu azioni scegliere "Calcola determinante". Il determinante verrà calcolato e mostrato a schermo ![image](https://user-images.githubusercontent.com/16359799/192737055-221e7df6-da72-4160-b05e-744649dd263f.png).
+3. E' anche possibile copiare il determinante scegliendo l'apposita voce dal menu Azioni.
+
+Se in una riga abbiamo solo una matrice possiamo anche calcolare il determinante scegliendo dal menu Strumenti, Calcolo matriciale, la voce determinante come in figura:
+![Determinante da finestra principale del programma](https://user-images.githubusercontent.com/16359799/192737972-6da8481e-3fb7-4973-bcc8-5e647fb2dd26.png)
+
