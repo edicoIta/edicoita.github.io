@@ -10,7 +10,7 @@ layout: default
 ## Allegati
 [Gli esempi che svolgeremo in questo tutorial sono disponibili già completati a questo link](esempi.edi)
 
-
+## Tabelle e matrici
 Le tabelle e le matrici sono particolari elementi con struttura a griglia, formate da colonne e da righe.
 
 Le tabelle vengono utilizzate per incolonnare dati o testo in modo ordinato.
@@ -326,7 +326,7 @@ C^T=\begin{pmatrix}
 \end{pmatrix}
 $$
 
-## Operazioni con le matrici quadrate
+## Studio di matrici quadrate
 Una matrice è detta quadrata quando il numero di righe è uguale al numero di colonne.
 Queste matrici hanno particolari proprietà come i *determinanti*.
 
