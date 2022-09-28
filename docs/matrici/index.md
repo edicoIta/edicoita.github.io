@@ -345,11 +345,11 @@ Procediamo come segue:
 2. Copiamo la matrice quindi scriviamo det. e incolliamo la matrice per ottenere 
 
 $$
-det\begin{pmatrix}
+det \begin{pmatrix}
 1&0&-3\\
 1&-1&1\\
 -1&1&0\\
-end{pmatrix})
+\end{pmatrix}
 $$
 
 3. conotinuo 
