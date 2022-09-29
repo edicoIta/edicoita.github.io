@@ -21,6 +21,20 @@ Ottenere Edico è molto semplice, basterà recarsi al seguente collegamento:
 http://www.irifor.eu/edico
 
 Sul sito troverete alcune informazioni, scorrete la pagina fino a giungere quasi in fondo, al link "Scarica Edico" e fate click su di esso.
-!immagine ![image](https://user-images.githubusercontent.com/16416536/193075008-547da160-3445-4a4b-ab92-9c3ab4e922fd.png)
+![image](https://user-images.githubusercontent.com/16416536/193075008-547da160-3445-4a4b-ab92-9c3ab4e922fd.png)
+
+Da qui, immagini per domani.
+
+Edico non viene scaricato di frequente, cliccare di destro e scegliere mantieni.
+![image](https://user-images.githubusercontent.com/16416536/193112645-7cd7d523-8fd7-4e2e-ba86-f2008694b29f.png)
+
+Smart screen rompe i coglioni e dice che il file non viene scaricato di frequente. il cursore è su mostra dettagli.
+![image](https://user-images.githubusercontent.com/16416536/193113409-8cdee2ba-11d9-4356-8fab-3fb880b242bc.png)
+
+Ora il cursore è su conserva comunque.
+![image](https://user-images.githubusercontent.com/16416536/193113697-ce9bd916-91b8-4659-917f-e19c27175e40.png)
 
 
+Installare tutto, avanti avanti avanti.
+La pericolosissima schermata  della licenza!
+No, basta immagini. C'è il mio codice pc, qualcuno potrebbe farmi uno scherzo.  
