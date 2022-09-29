@@ -5,7 +5,7 @@ layout: default
 # Tabelle e matrici: le strutture bidimensionali
 * * *
 
-<img align="left" width="200" src="https://user-images.githubusercontent.com/16359799/192094768-6ef3a876-8ed8-4c39-adbe-a2b6e8f650a9.png"> 
+<img align="left" hspace="20" width="200" src="https://user-images.githubusercontent.com/16359799/192094768-6ef3a876-8ed8-4c39-adbe-a2b6e8f650a9.png"> 
 
 Le tabelle e le matrici sono particolari elementi con struttura a griglia, formate da colonne e da righe.
 
@@ -252,7 +252,7 @@ $$
 9800 & 9300 & 8100 \\
 3400 & 2400 & 4400
 \end{pmatrix}
--\\
+-
 \begin{pmatrix}
 10000 & 9000 & 8500 \\
 3400 & 2300 & 4000
