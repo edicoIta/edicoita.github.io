@@ -21,4 +21,6 @@ Ottenere Edico è molto semplice, basterà recarsi al seguente collegamento:
 http://www.irifor.eu/edico
 
 Sul sito troverete alcune informazioni, scorrete la pagina fino a giungere quasi in fondo, al link "Scarica Edico" e fate click su di esso.
-  Qui ci va il primo screenshot che da remoto non mi fa fare!
+!immagine ![image](https://user-images.githubusercontent.com/16416536/193075008-547da160-3445-4a4b-ab92-9c3ab4e922fd.png)
+
+
