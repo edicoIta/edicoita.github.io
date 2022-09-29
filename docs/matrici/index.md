@@ -5,12 +5,8 @@ layout: default
 # Tabelle e matrici, le strutture bidimensionali
 * * *
 
-![Tabelle e matrici](https://user-images.githubusercontent.com/16359799/192094768-6ef3a876-8ed8-4c39-adbe-a2b6e8f650a9.png)
+<img align="left" width="200" src="https://user-images.githubusercontent.com/16359799/192094768-6ef3a876-8ed8-4c39-adbe-a2b6e8f650a9.png"> 
 
-## Allegati
-[Gli esempi che svolgeremo in questo tutorial sono disponibili già completati a questo link](esempi.edi)
-
-## Tabelle e matrici
 Le tabelle e le matrici sono particolari elementi con struttura a griglia, formate da colonne e da righe.
 
 Le tabelle vengono utilizzate per incolonnare dati o testo in modo ordinato.
@@ -23,6 +19,15 @@ EDICO permette di lavorare con tabelle e matrici.
 
 Proprio perché queste strutture si espandono su più righe e colonne sono chiamati elementi bidimensionali
 dove la prima dimensione sono le righe e la seconda dimensione le colonne.
+
+In questo tutorial si è cercato di raccogliere tutti gli strumenti che EDICO mette a disposizione quando si lavora con le tabelle normali e con le matrici. L'esposizione cercherà di organizzare gli argomenti trattati in ordine di difficoltà crescente.
+
+Partiremo con qualche esempio sulle tabelle, usate già a partire dalle scuole primarie, proseguiremo poi nel presentare le principali operazioni con le matrici, introdotte in scuola secondaria ad esempio per la risoluzione dei sistemi di equazioni e disequazioni. Nell'ultima parte presenteremo gli strumenti messi a disposizione di EDICO per facilitare l'apprendimento di specifici argomenti di algebra lineare, che potrebbero trovare svolgimento durante la scuola secondaria o l'università.
+
+## Allegati
+[Gli esempi che svolgeremo in questo tutorial sono disponibili già completati a questo link](esempi.edi)
+
+
 
 ## L'uso delle tabelle
 
@@ -68,7 +73,7 @@ Fra questi marcatori possiamo andare a inserire manualmente il contenuto della n
 | Profitto | Nord | Centro | Sud |
 
 
-lo possiamo fare andando a scrivere "Profitto" fra il marcatore di inizio tabella e il primo marcatore di nuova colonna, e a seguire centro e sud.
+lo possiamo fare andando a premere control+j per aprire un blocco di testo e quindi a scrivere "Profitto" fra il marcatore di inizio tabella e il primo marcatore di nuova colonna, e a seguire "nord", "centro" e "sud".
 Per vedere l'esempio svolto fare riferimento all'Esempio 1 del file allegato.
 
 ![image](https://user-images.githubusercontent.com/16359799/192093181-7a6c9bbb-2b83-46e7-9a49-f711609af245.png)
@@ -93,7 +98,9 @@ Sul display braille, a inizio riga, leggeremo sempre anche la coordinata della r
 
 Riga1 edt Profitto. Nord. Centro. Sud.
 
-La sintesi vocale leggerà l'intera riga della tabella scandendola lettera per lettera.
+La sintesi vocale leggerà l'intera riga della tabella.
+
+Come si vede in una tabella di EDICO è possibile aggiungere anche i vari blocchi come il testo.
 
 Questo tipo di Editor è molto comodo per chi lavora in braille se si desidera avere a disposizione sul display l'intera riga della tabella.
 
