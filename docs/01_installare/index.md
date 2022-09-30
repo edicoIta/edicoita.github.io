@@ -18,7 +18,7 @@ Tale controllo viene effettuato anche all'esecuzione di Edico, per cui se si ins
 
 ## Scaricare Edico
 Ottenere Edico è molto semplice, basterà recarsi al seguente collegamento:
-[HomePageEdico(http://www.irifor.eu/edico)]
+[HomePageEdico](http://www.irifor.eu/edico)
 
 Sul sito troverete alcune informazioni, scorrete la pagina fino a giungere quasi in fondo, al link "Scarica Edico" e fate click su di esso.
 
