@@ -18,7 +18,7 @@ Tale controllo viene effettuato anche all'esecuzione di Edico, per cui se si ins
 
 ## Scaricare Edico
 Ottenere Edico è molto semplice, basterà recarsi al seguente collegamento:
-[HomePageEdico](http://www.irifor.eu/edico)
+[HomePageEdico](http://www.irifor.eu/edico){:target="\_blank"}
 
 Sul sito troverete alcune informazioni, scorrete la pagina fino a giungere quasi in fondo, al link "Scarica Edico" e fate click su di esso.
 
@@ -28,7 +28,7 @@ Una volta che il download terminerà, potreste ricevere alcuni messaggi di sicur
 Nel caso più complesso, Microsoft Edge fornirà una serie di avvisi in quanto il file non viene scaricato di frequente.
 Sarà necessario perciò cliccare col tasto destro sul file e selezionare mantieni.
 
-![imagine](https://user-images.githubusercontent.com/16416536/193112645-7cd7d523-8fd7-4e2e-ba86-f2008694b29f.png)
+![immagine](https://user-images.githubusercontent.com/16416536/193112645-7cd7d523-8fd7-4e2e-ba86-f2008694b29f.png)
 
 Successivamente, talvolta interviene anche la funzione di protezione di Windows chiamata SmartScreen, che fornisce un messaggio molto simile al precedente. Cliccare su "ulteriori dettagli" come mostrato in figura.
 
